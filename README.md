@@ -35,7 +35,7 @@ Veja o layout básico do sistema solar:
 - Simulação realista de órbitas com velocidades diferentes.
 
 ## Prévia
-<img src="./assets/img/Sistema-Solar"png" alt="Prévia do Sistema Solar" width="500">
+<img src="./assets/img/Sistema-Solar.jpg" alt="Prévia do Sistema Solar" width="500">
 
 ## Como Executar
 
