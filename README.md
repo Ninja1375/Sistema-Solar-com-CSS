@@ -1,6 +1,6 @@
 # Sistema Solar com CSS 
 
-Uma simulação visual interativa do Sistema Solar criada com HTML e CSS. Este projeto apresenta animações das órbitas dos planetas em torno do Sol e da Lua em torno da Terra.
+Uma simulação visual interativa do **[Sistema Solar](https://ninja1375.github.io/Sistema-Solar-com-CSS/)** criada com HTML e CSS. Este projeto apresenta animações das órbitas dos planetas em torno do Sol e da Lua em torno da Terra.
 
 ## Descrição
 
