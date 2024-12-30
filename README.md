@@ -40,7 +40,27 @@ Veja o layout básico do sistema solar:
    ```bash
    git clone https://github.com/ninja1375/sistema-solar-com-css.git
    ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd sistema-solar-com-css
+   ```
+3. Abra o arquivo `index.html` em um navegador para visualizar a simulação.
 
+## Contribuições
+
+Contribuições são bem-vindas! Siga os passos abaixo:
+
+1. Faça um fork do repositório.
+
+2. Crie uma nova branch:
+   ```bash
+   git checkout -b feature/sua-feature
+   ```
+3. Faça suas alterações e commit:
+   ```bash
+   git commit -m "Adicionando nova feature"
+   ```
+4. Envie um pull request.
 
 ## Apoie-me:
 
