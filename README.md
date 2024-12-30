@@ -34,6 +34,9 @@ Veja o layout básico do sistema solar:
 - Planetas incluídos: Mercúrio, Vênus, Terra (com Lua), Marte, Júpiter, Saturno, Urano e Netuno.
 - Simulação realista de órbitas com velocidades diferentes.
 
+## Prévia
+<img src="./assets/img/" alt="Prévia do Sistema Solar" width="500">
+
 ## Como Executar
 
 1. Clone o repositório para o seu ambiente local:
